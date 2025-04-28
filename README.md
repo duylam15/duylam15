@@ -47,11 +47,3 @@
   <a href="https://yourblog.com"><img src="https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=blogger&logoColor=white"/></a>
   <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
-
-## 🐍 GitHub Contribution Snake  
-![snake gif](https://github.com/yourusername/duylam15/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
