@@ -4,10 +4,9 @@ Fullstack Web Developer based in Ho Chi Minh City, focused on building responsiv
 
 ### 🚀 About Me
 - 🎓 Software Engineering graduate from **Sai Gon University** (GPA: 3.27/4.0)
-- 💻 Former Fullstack Developer Intern at **PN Informatics Technology**
-- 🔭 Currently building **[Flash Sale Benchmark Engine](https://netto.id.vn)** — a high-concurrency simulation & load-testing platform
+- 💼 Open to full-time **Fullstack / Frontend Developer** opportunities in HCMC
 - 🌱 Exploring system design, containerization, and cloud deployment
-- 📫 Reach me at: **your.email@gmail.com** *(thay bằng email của bạn)*
+- 📫 Reach me at: **nguyenducduylam.dev@gmail.com**
 
 ### 🛠 Tech Stack
 **Frontend:**
@@ -29,8 +28,8 @@ Fullstack Web Developer based in Ho Chi Minh City, focused on building responsiv
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📌 Featured Projects
-- **[Flash Sale Benchmark Engine](https://netto.id.vn)** (`Next.js`, `Express.js`, `PostgreSQL`, `Redis`, `Docker`, `k6`): High-concurrency e-commerce flash sale simulator with real-time k6 load-test metrics dashboard.
-- **[SGU Learning Management System](https://quanlyhoctapsgu.cloud)** (`React`, `Vite`, `TypeScript`, `Ant Design`, `Express.js`, `Socket.IO`): Multi-role academic portal with automated grading and real-time course chat.
+- **[Flash Sale Benchmark Engine](https://github.com/duylam15/flashsale)** (`Next.js`, `Express.js`, `PostgreSQL`, `Redis`, `Docker`, `k6`): High-concurrency e-commerce flash sale simulator with real-time k6 load-test metrics dashboard.
+- **[SGU Learning Management System](https://github.com/duylam15/kltn)** (`React`, `Vite`, `TypeScript`, `Ant Design`, `Express.js`, `Socket.IO`): Multi-role academic portal with automated grading and real-time course chat.
 
 ### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%E1%BB%85n-l%C3%A2m-b2b703362/)
