@@ -32,4 +32,4 @@ Fullstack Web Developer based in Ho Chi Minh City, focused on building responsiv
 - **[SGU Learning Management System](https://github.com/duylam15/kltn)** (`React`, `Vite`, `TypeScript`, `Ant Design`, `Express.js`, `Socket.IO`): Multi-role academic portal with automated grading and real-time course chat.
 
 ### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%E1%BB%85n-l%C3%A2m-b2b703362/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%A2m-nguy%E1%BB%85n-%C4%91%E1%BB%A9c-duy-b2b703362/)
